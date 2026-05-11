@@ -1,0 +1,9 @@
+{
+  "routes": [
+    {
+      "route": "/*",
+      "redirect": "https://piccomkw.sharepoint.com/sites/PicPortal",
+      "statusCode": 301
+    }
+  ]
+}
